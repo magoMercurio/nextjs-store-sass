@@ -1,13 +1,10 @@
-
-
-import Image from 'next/image'
-
+import { Description } from '@/components/home/Description'
 
 export default function Home() {
 
   return (
     <main >
-      <h1>Hola mundo!!!</h1>
+      <Description />
     </main>
   )
 }
