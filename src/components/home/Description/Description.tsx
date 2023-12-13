@@ -3,9 +3,9 @@
 export const Description = () => {
   
   return (
-    <div>
+    <section>
       <h1>Description</h1>
-    </div>
+    </section>
     )
 
 }
