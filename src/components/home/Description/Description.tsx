@@ -4,7 +4,7 @@ export const Description = () => {
   
   return (
     <section>
-      <h1>Description</h1>
+      <img src="/images/description.jpeg" alt="products marketplace" />
     </section>
     )
 
