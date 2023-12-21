@@ -1,6 +1,6 @@
 import React from "react";
 import { ProductsWrapper } from "@/components/Store/ProductWrapper";
-import { getProducts } from "@/services/shopify";
+import { getProducts } from "@/services/shopify/products";
 
 interface CategoryProps {
   params: {
