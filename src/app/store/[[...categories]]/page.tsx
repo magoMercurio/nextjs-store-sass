@@ -16,6 +16,7 @@ export default async function Categories(props: CategoryProps) {
   const { categories } = props.params
 
   console.log(categories);
+
   return (
     <ProductsWrapper products={products} />
   )
